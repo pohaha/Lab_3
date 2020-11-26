@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Cone.cpp">
+    <ClCompile Include="Cone.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Figure.cpp">
+    <ClCompile Include="Figure.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\sphere.cpp">
+    <ClCompile Include="sphere.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Cone.h">
+    <ClInclude Include="Cone.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Figure.h">
+    <ClInclude Include="Figure.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\sphere.h">
+    <ClInclude Include="sphere.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
